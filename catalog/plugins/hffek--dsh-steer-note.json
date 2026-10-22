@@ -6,7 +6,7 @@
   "category": "ui",
   "description": {
     "en": "Adds a compact mid-turn steering box above the composer for sending text, images, and files as native steering messages, with read/pending status, cancel, and unfinished-draft rescue into the main composer.",
-    "zh": "鍦ㄨ緭鍏ユ涓婃柟澧炲姞鐙珛鎻掕瘽鏍忥紝鏀寔鏂囧瓧銆佸浘鐗囧拰鏅€氭枃浠讹紱鏄剧ず璇诲彇鐘舵€侊紝鍙彇娑堟湭璇诲彇鎻掕瘽锛屽苟鍦ㄤ换鍔＄粨鏉熸椂鎶婃湭鍙戦€佽崏绋挎惉杩涗富杈撳叆妗嗐€?
+    "zh": "在输入框上方增加独立插话栏，支持文字、图片和普通文件；显示读取状态，可取消未读取插话，并在任务结束时把未发送草稿搬进主输入框。"
   },
   "added": "2026-10-22"
 }
