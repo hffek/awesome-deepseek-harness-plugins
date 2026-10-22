@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "hffek/dsh-steer-note",
+  "name": "dsh-steer-note",
+  "repository": "https://github.com/hffek/dsh-steer-note",
+  "category": "ui",
+  "description": {
+    "en": "Adds a compact mid-turn steering box above the composer for sending text, images, and files as native steering messages, with read/pending status, cancel, and unfinished-draft rescue into the main composer.",
+    "zh": "鍦ㄨ緭鍏ユ涓婃柟澧炲姞鐙珛鎻掕瘽鏍忥紝鏀寔鏂囧瓧銆佸浘鐗囧拰鏅€氭枃浠讹紱鏄剧ず璇诲彇鐘舵€侊紝鍙彇娑堟湭璇诲彇鎻掕瘽锛屽苟鍦ㄤ换鍔＄粨鏉熸椂鎶婃湭鍙戦€佽崏绋挎惉杩涗富杈撳叆妗嗐€?
+  },
+  "added": "2026-10-22"
+}
